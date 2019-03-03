@@ -1,1 +1,1 @@
-window.SM2_DEFER = false;
+window.SM2_DEFER = true;
